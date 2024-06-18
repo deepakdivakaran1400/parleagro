@@ -1,0 +1,68 @@
+.navbar {
+    background-color: rgb(1, 1, 47) !important;
+}
+
+
+.align-items-stretch {
+    align-items: stretch;
+}
+
+.brands {
+    display: flex;
+}
+#dropdown-menu:hover #dropdown-item {
+    display: block;
+}
+.aside-left{
+    padding: 0;
+}
+.aside-left img{
+    padding: 0;
+    height: 44rem;
+    width: 100%;
+}
+.container-fluid{
+    padding: 0;
+}
+
+.aside-right{
+    padding-left: 7.5rem;
+    padding-top:5rem ;
+    padding-right: 7rem;
+    font-size: 19px;
+    font-family: sans-serif;
+    font-weight: 300;
+    text-align: left;
+}
+.aside-right button{
+    border: none;
+    background: none
+}
+.f-sec-3 button{
+    border: none;
+    background: none
+}
+.f-sec{
+    padding: 4rem;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 300;
+    text-align: left;
+}
+section.col-12 .col-sm-12 .col-md-12 .col-lg-12{
+    padding: 1rem;
+}
+
+
+#link>span:hover{
+color:rgb(255, 0, 0);
+cursor:pointer
+}
+#buttons>span:hover{
+    color: red;
+    cursor:pointer
+}
+#titles>span:hover{
+    color:rgb(255, 0, 0);
+    cursor:pointer
+    }
